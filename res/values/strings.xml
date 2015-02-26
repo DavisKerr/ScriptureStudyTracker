@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScriptureStudyTracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="date_text">No date detected</string>
+
+</resources>
